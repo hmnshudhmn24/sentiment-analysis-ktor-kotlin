@@ -3,7 +3,6 @@
 
 This project combines a Python-trained ONNX sentiment classifier with a blazing-fast Kotlin Ktor server. Classify text into positive, negative, or neutral categories with a simple JSON API. Collect user feedback for future retraining and easily scale your sentiment analysis microservice!
 
----
 
 ## ✨ Project Highlights
 
@@ -14,7 +13,6 @@ This project combines a Python-trained ONNX sentiment classifier with a blazing-
 - Ready to integrate with PostgreSQL or SQLite
 - JVM-deployable, production-ready
 
----
 
 ## 🚀 How to Run
 
@@ -48,7 +46,6 @@ This project combines a Python-trained ONNX sentiment classifier with a blazing-
      { "text": "this sucks" }
      ```
 
----
 
 ## 🛠 Customization
 
@@ -56,7 +53,6 @@ This project combines a Python-trained ONNX sentiment classifier with a blazing-
 - Add a database (PostgreSQL recommended) for active retraining  
 - Expand to streaming sentiment scoring
 
----
 
 ## 🌟 Next Features
 
@@ -64,4 +60,3 @@ This project combines a Python-trained ONNX sentiment classifier with a blazing-
 - GPT fallback for advanced conversation  
 - Multilingual support
 
----
